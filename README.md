@@ -13,6 +13,7 @@ for strategic planning</h3>
     
 - 📄 **CERTIFICATIONS** :
   - [Career Essentials in Data Analysis by Microsoft and LinkedIn](https://www.linkedin.com/learning/certificates/86771681de3f343e9437e569f334846b1f01eb38eaf4aed6c38a97824873f253?trk=share_certificate)
+  - [Data Analytics Essentials Issued by Cisco](https://www.credly.com/earner/earned/share/768abb5f-2af6-42a1-b801-a0518cb300fc)
   - [SQL (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/2e9542a1285f)
   - [Python (Basic) Certificate](https://www.hackerrank.com/certificates/iframe/bbb90980489b)
 
